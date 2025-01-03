@@ -27,7 +27,6 @@ react dev --repo=<repo-name>
     - [基礎專案](./repo/base/README.md)，執行 ```react dev --repo=base```
     - 服務專案
     - 導覽專案
-    - 編譯設定
     - 動態載入
 
 以上所有範例的開發伺服器皆執行於 5173 埠。

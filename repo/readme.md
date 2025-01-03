@@ -45,7 +45,10 @@ npm install
 Vite 是 vue 的專案建立工具，但其專案本身為快速建立網頁專案用，使用 vite 建立的專案僅會建至必要檔案。
 
 ```
-npm create vite@latest my-app -- --template react
+# 標準 React 專案 base
+npm create vite@latest base -- --template react
+# React + Typesctipt 專案 base-ts
+npm create vite@latest base-ts -- --template react-ts
 ```
 
 Vite 與 CRA 建立的專案最大差異在 public 中的 index.html 外移到專案根目錄，其設計理由可參考[index.html and Project Root](https://vitejs.dev/guide/#index-html-and-project-root)
