@@ -25,7 +25,7 @@ react dev --repo=<repo-name>
 + [React 建立與管理專案](./repo/readme.md)
 + React 專案特性
     - [基礎專案](./repo/base/README.md)，執行 ```react dev --repo=base```
-    - 服務專案
+    - [服務專案](./repo/service/README.md)，執行 ```react dev --repo=service```
     - 導覽專案
     - 動態載入
 
