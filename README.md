@@ -26,6 +26,10 @@ react dev --repo=<repo-name>
 + React 專案特性
     - [基礎專案](./repo/base/README.md)，執行 ```react dev --repo=base```
     - [服務專案](./repo/service/README.md)，執行 ```react dev --repo=service```
+    - 狀態管理
+        + custom hook
+        + [redux](./repo/state-redux/README.md)，執行 ```react dev --repo=state-redux```
+        + zustand
     - 導覽專案
     - 動態載入
 
