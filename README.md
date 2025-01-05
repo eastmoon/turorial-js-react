@@ -29,7 +29,7 @@ react dev --repo=<repo-name>
     - 狀態管理
         + custom hook
         + [redux](./repo/state-redux/README.md)，執行 ```react dev --repo=state-redux```
-        + zustand
+        + [zustand](./repo/state-zustand/README.md)，執行 ```react dev --repo=state-zustand```
     - 導覽專案
     - 動態載入
 
