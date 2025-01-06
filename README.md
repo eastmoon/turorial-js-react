@@ -25,12 +25,12 @@ react dev --repo=<repo-name>
 + [React 建立與管理專案](./repo/readme.md)
 + React 專案特性
     - [基礎專案](./repo/base/README.md)，執行 ```react dev --repo=base```
-    - [服務專案](./repo/service/README.md)，執行 ```react dev --repo=service```
+    - [服務](./repo/service/README.md)，執行 ```react dev --repo=service```
     - 狀態管理
         + [custom](./repo/state-custom/README.md)，執行 ```react dev --repo=state-custom```
         + [redux](./repo/state-redux/README.md)，執行 ```react dev --repo=state-redux```
         + [zustand](./repo/state-zustand/README.md)，執行 ```react dev --repo=state-zustand```
-    - 導覽專案
+    - [導覽](./repo/route/README.md)，執行 ```react dev --repo=route```
     - 動態載入
 
 以上所有範例的開發伺服器皆執行於 5173 埠。
