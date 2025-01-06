@@ -27,7 +27,7 @@ react dev --repo=<repo-name>
     - [基礎專案](./repo/base/README.md)，執行 ```react dev --repo=base```
     - [服務專案](./repo/service/README.md)，執行 ```react dev --repo=service```
     - 狀態管理
-        + custom hook
+        + [custom](./repo/state-custom/README.md)，執行 ```react dev --repo=state-custom```
         + [redux](./repo/state-redux/README.md)，執行 ```react dev --repo=state-redux```
         + [zustand](./repo/state-zustand/README.md)，執行 ```react dev --repo=state-zustand```
     - 導覽專案
