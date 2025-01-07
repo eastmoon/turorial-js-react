@@ -34,3 +34,7 @@ react dev --repo=<repo-name>
     - [動態載入](./repo/lazy/README.md)，執行 ```react dev --repo=lazy```
 
 以上所有範例的開發伺服器皆執行於 5173 埠。
+
+## 文獻
+
++ [React TypeScript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup)
