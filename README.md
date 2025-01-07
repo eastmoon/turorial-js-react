@@ -31,6 +31,6 @@ react dev --repo=<repo-name>
         + [redux](./repo/state-redux/README.md)，執行 ```react dev --repo=state-redux```
         + [zustand](./repo/state-zustand/README.md)，執行 ```react dev --repo=state-zustand```
     - [導覽](./repo/route/README.md)，執行 ```react dev --repo=route```
-    - 動態載入
+    - [動態載入](./repo/lazy/README.md)，執行 ```react dev --repo=lazy```
 
 以上所有範例的開發伺服器皆執行於 5173 埠。
